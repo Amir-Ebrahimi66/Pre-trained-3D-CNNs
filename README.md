@@ -26,5 +26,7 @@ Ebrahimi, Amir, et al. “Convolutional Neural Networks for Alzheimer’s Diseas
 
 ### GUI for Alzheimer's disease detection: [![View GUI on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://au.mathworks.com/matlabcentral/fileexchange/88912-alzheimer-s-disease-detection-using-3d-resnet-18-on-mri)
 
-![image](https://user-images.githubusercontent.com/57122652/123904577-0f5c9b00-d9b4-11eb-9058-1d64c8939c56.png)
+<div align="center">
+  
+  ![image](https://user-images.githubusercontent.com/57122652/123904577-0f5c9b00-d9b4-11eb-9058-1d64c8939c56.png)
 
